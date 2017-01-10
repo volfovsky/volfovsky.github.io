@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-url: /teaching/
+permalink: /teaching/
 ---
 
 Courses I have taught at Duke.
