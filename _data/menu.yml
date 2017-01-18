@@ -7,11 +7,11 @@
 - title: "Teaching"
   href: "/teaching/"
 
-- title: "CV"
-  href: "/cv/"
+#- title: "CV"
+#  href: "/cv/"
 
-- title: "Blog"
-  href: "/blog/"
+#- title: "Blog"
+#  href: "/blog/"
 
 #- title: "Miscellany"
 #  href: "/miscellany/"
