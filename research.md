@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-Working papers:
+Working papers and publications:
 
 * Jagadeesan, Pillai and Volfovsky. [Designs for estimating the treatment effect in networks with interference]({{site.arxiv_url}}/1705.08524). arXiv:1705.08524
 * Hollenbach, Bojinov, Minhas, Metternich, Minhas, Ward and Volfovsky. [Principled Imputation Made Simple: Multiple Imputation Using Gaussian Copulas]({{site.arxiv_url}}/1411.0647). arXiv:1411.0647
@@ -12,6 +12,14 @@ Working papers:
 * Volfovsky, Airoldi and Rubin. [Causal inference for ordinal outcomes]({{site.arxiv_url}}/1501.01234). arXiv:1501.01234
 * Sussman, Volfovsky and Hoff. [Analyzing statistical and computational tradeoffs of estimation procedures]({{site.arxiv_url}}/1506.07925).  arXiv:1506.07925
 * Volfovsky and Airoldi. [Sharp total variation bounds for finitely exchangeable arrays]({{site.arxiv_url}}/1407.6092) (2016). Statistics & Probability Letters 114, 54-59. 
-* Volfovsky and Hoff. Testing for nodal dependence in relational data matrices (2015). Journal of the American Statistical Association 110 (511), 1037-1046
+* Volfovsky and Hoff. [Testing for nodal dependence in relational data matrices]({{site.arxiv_url}}/1306.5786) (2015). Journal of the American Statistical Association 110 (511), 1037-1046
 * Volfovsky and Hoff. [Hierarchical array priors for ANOVA decompositions of cross-classified data]({{site.arxiv_url}}/1208.1726) (2014). The Annals of Applied Statistics 8 (1), 19
 * Hoff, Fosdick, Volfovsky and Stovel. [Likelihoods for fixed rank nomination networks]({{site.arxiv_url}}/1212.6234) (2013). Network Science 1 (03), 253-277
+
+Recent and upcoming invited talks:
+
+* December 2017: CMStatistics 2017, London
+* August 2017: Joint Statistical Meetings, Baltimore, MD
+* May 25, 2017: [Atlantic Causal Inference Conference](http://causal.unc.edu/acic2017/), UNC, Chapel Hill, NC
+* May 25, 2017: [Social Networks and Health 2017](https://dnac.ssri.duke.edu/social-networks-health-scholars-training-program.php), Duke, Durham, NC
+* May 17, 2017: [GraphEx](https://events.ll.mit.edu/graphex/), MIT Lincoln Lab, Dedham, MA 
