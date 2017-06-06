@@ -6,7 +6,7 @@ permalink: /research/
 
 Working papers:
 
-* Jagadeesan, Pillai and Volfovsky. Designs for estimating the treatment effect in networks with interference. arXiv:1705.08524
+* Jagadeesan, Pillai and Volfovsky. Designs for estimating the treatment effect in networks with interference. [arXiv:1705.08524]({{site.arxiv_url}}/1705.08524)
 * Basse, Volfovsky and Airoldi. Observational studies with unknown time of treatment. arXiv:1601.04083
 * Volfovsky, Airoldi and Rubin. Causal inference for ordinal outcomes. arXiv:1501.01234
 * Sussman, Volfovsky and Hoff. Analyzing statistical and computational tradeoffs of estimation procedures.  arXiv:1506.07925
