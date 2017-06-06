@@ -46,9 +46,11 @@
           
           {% if site.instagram_username %}
           <li>
-            <a href="https://instagram.com/{{ site.instagram_username }}"><i class="svg-icon instagram"></i></a>
+          <a href="https://instagram.com/{{ site.instagram_username }}">
+            <i class="fa fa-instagram"></i> {{site.instagram_username}}
+          </a>
           </li>
-          {% endif %}
+           {% endif %}
         </ul>
       </div>
 
