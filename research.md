@@ -6,6 +6,7 @@ permalink: /research/
 
 Working papers and publications:
 
+* Roy, Rudin, Volfovsky and Wang. [FLAME: A Fast Large-scale Almost Matching Exactly Approach to Causal Inference]({{site.arxiv_url}}/1707.06315). arXiv:1707.06315
 * Jagadeesan, Pillai and Volfovsky. [Designs for estimating the treatment effect in networks with interference]({{site.arxiv_url}}/1705.08524). arXiv:1705.08524
 * Hollenbach, Bojinov, Minhas, Metternich, Minhas, Ward and Volfovsky. [Principled Imputation Made Simple: Multiple Imputation Using Gaussian Copulas]({{site.arxiv_url}}/1411.0647). arXiv:1411.0647
 * Basse, Volfovsky and Airoldi. [Observational studies with unknown time of treatment]({{site.arxiv_url}}/1601.04083). arXiv:1601.04083
