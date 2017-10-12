@@ -11,7 +11,7 @@ Working papers and publications:
 * Hollenbach, Bojinov, Minhas, Metternich, Minhas, Ward and Volfovsky. [Principled Imputation Made Simple: Multiple Imputation Using Gaussian Copulas]({{site.arxiv_url}}/1411.0647). arXiv:1411.0647
 * Basse, Volfovsky and Airoldi. [Observational studies with unknown time of treatment]({{site.arxiv_url}}/1601.04083). arXiv:1601.04083
 * Volfovsky, Airoldi and Rubin. [Causal inference for ordinal outcomes]({{site.arxiv_url}}/1501.01234). arXiv:1501.01234
-* Sussman, Volfovsky and Hoff. [Analyzing statistical and computational tradeoffs of estimation procedures]({{site.arxiv_url}}/1506.07925).  arXiv:1506.07925
+* Sussman, Volfovsky and Airoldi. [Analyzing statistical and computational tradeoffs of estimation procedures]({{site.arxiv_url}}/1506.07925).  arXiv:1506.07925
 * Volfovsky and Airoldi. [Sharp total variation bounds for finitely exchangeable arrays]({{site.arxiv_url}}/1407.6092) (2016). Statistics & Probability Letters 114, 54-59. 
 * Volfovsky and Hoff. [Testing for nodal dependence in relational data matrices]({{site.arxiv_url}}/1306.5786) (2015). Journal of the American Statistical Association 110 (511), 1037-1046
 * Volfovsky and Hoff. [Hierarchical array priors for ANOVA decompositions of cross-classified data]({{site.arxiv_url}}/1208.1726) (2014). The Annals of Applied Statistics 8 (1), 19
