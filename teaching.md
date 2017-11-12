@@ -4,10 +4,10 @@ title: Teaching
 permalink: /teaching/
 ---
 
-Courses I have taught at Duke:
+Courses I have taught at Duke (S = Spring, F = Fall):
 
-* Spring 2017 Statistics 450/650: [Network analysis](http://www2.stat.duke.edu/courses/Spring17/sta650.001/)
-* Fall 2016 Statistics 360/601: [Bayesian methods](http://www2.stat.duke.edu/courses/Fall16/sta601.001/)
+* Statistics 450/650: Network analysis [S17](http://www2.stat.duke.edu/courses/Spring17/sta650.001/), S18
+* Statistics 360/601: Bayesian methods [F16](http://www2.stat.duke.edu/courses/Fall16/sta601.001/), [F17](http://www2.stat.duke.edu/courses/Fall17/sta601.001/)
 
 Courses I have taught at Harvard:
 
