@@ -25,9 +25,7 @@ Recent and upcoming invited talks:
 * October 19, 2017: University of Minnesota School of Statistics Seminar, Minneapolis, MN
 * October 17, 2017: Stanford Statistics Department Seminar, Palo Alto, CA
 * October 11, 2017: [Leveraging Advances in Social Network Thinking for National Security](http://sites.nationalacademies.org/DBASSE/BBCSS/DBASSE_181267), The National Academies of Sciences, Engineering, and Medicine, Washington, DC 
-<!--
-* August 2017: Joint Statistical Meetings, Baltimore, MD
-* May 25, 2017: [Atlantic Causal Inference Conference](http://causal.unc.edu/acic2017/), UNC, Chapel Hill, NC
-* May 25, 2017: [Social Networks and Health 2017](https://dnac.ssri.duke.edu/social-networks-health-scholars-training-program.php), Duke, Durham, NC
-* May 17, 2017: [GraphEx](https://events.ll.mit.edu/graphex/), MIT Lincoln Lab, Dedham, MA 
--->
+<>* August 2017: Joint Statistical Meetings, Baltimore, MD
+<>* May 25, 2017: [Atlantic Causal Inference Conference](http://causal.unc.edu/acic2017/), UNC, Chapel Hill, NC
+<>* May 25, 2017: [Social Networks and Health 2017](https://dnac.ssri.duke.edu/social-networks-health-scholars-training-program.php), Duke, Durham, NC
+<>* May 17, 2017: [GraphEx](https://events.ll.mit.edu/graphex/), MIT Lincoln Lab, Dedham, MA 
