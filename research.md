@@ -19,8 +19,13 @@ Working papers and publications:
 
 Recent and upcoming invited talks:
 
+* August 2018: Causal Inference Workshop at UAI (organizer), Monterey, CA
+* July 2018: IMS New Researchers Conference (organizer), Vancouver
 * June 2018: International Society for Bayesian Analysis, Edinburgh
-* May 2018: Atlantic Causal Inference Conference, Pittsburgh, PA
+* June 2018: Causal inference for complex graphical structures, CRM, Montreal
+* June 2018: NetSci: Network Causal Inference and Design of Experiments (organizer), Paris
+* June 2018: Conference on Statistical Learning and Data Science, New York, NY
+* May 2018: Atlantic Causal Inference Conference (organizer), Pittsburgh, PA
 * December 2017: CMStatistics 2017, London
 * October 19, 2017: University of Minnesota School of Statistics Seminar, Minneapolis, MN
 * October 17, 2017: Stanford Statistics Department Seminar, Palo Alto, CA
