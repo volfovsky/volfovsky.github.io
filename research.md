@@ -6,6 +6,9 @@ permalink: /research/
 
 Working papers and publications:
 
+* Dieng, Liu, Roy, Rudin and Volfovsky. [Collapsing-Fast-Large-Almost-Matching-Exactly: A Matching Method for Causal Inference]({{site.arxiv_url}}/1806.06802). arXiv:1806.06802
+* Bu, Xu, Heller and Volfovsky. [SMOGS: Social Network Metrics of Game Success]({{site.arxiv_url}}/1806.06696). arXiv:1806.06696
+* Bail, Argyle, Brown, Bumpus, Chen, Hunzaker, Lee, Mann, Merhout, and Volfovsky. [Exposure to Opposing Views can Increase Political Polarization: Evidence from a Large-Scale Field Experiment on Social Media](https://osf.io/preprints/socarxiv/4ygux). SocArXiv:10.17605/OSF.IO/4YGUX
 * Roy, Rudin, Volfovsky and Wang. [FLAME: A Fast Large-scale Almost Matching Exactly Approach to Causal Inference]({{site.arxiv_url}}/1707.06315). arXiv:1707.06315
 * Jagadeesan, Pillai and Volfovsky. [Designs for estimating the treatment effect in networks with interference]({{site.arxiv_url}}/1705.08524). arXiv:1705.08524
 * Hollenbach, Bojinov, Minhas, Metternich, Minhas, Ward and Volfovsky. [Principled Imputation Made Simple: Multiple Imputation Using Gaussian Copulas]({{site.arxiv_url}}/1411.0647). arXiv:1411.0647
@@ -19,13 +22,13 @@ Working papers and publications:
 
 Recent and upcoming invited talks:
 
-* August 2018: Causal Inference Workshop at UAI (organizer), Monterey, CA
-* July 2018: IMS New Researchers Conference (organizer), Vancouver
+* August 2018: [Causal Inference Workshop at UAI](https://sites.google.com/view/causaluai2018) (organizer), Monterey, CA
+* July 2018: [IMS New Researchers Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) (organizer), Vancouver
 * June 2018: International Society for Bayesian Analysis, Edinburgh
 * June 2018: Causal inference for complex graphical structures, CRM, Montreal
-* June 2018: NetSci: Network Causal Inference and Design of Experiments (organizer), Paris
+* June 2018: [NetSci: Network Causal Inference and Design of Experiments](https://sites.google.com/view/causal-netsci2018/home) (organizer), Paris
 * June 2018: Conference on Statistical Learning and Data Science, New York, NY
-* May 2018: Atlantic Causal Inference Conference (organizer), Pittsburgh, PA
+* May 2018: [Atlantic Causal Inference Conference](https://www.cmu.edu/acic2018/) (organizer), Pittsburgh, PA
 * December 2017: CMStatistics 2017, London
 * October 19, 2017: University of Minnesota School of Statistics Seminar, Minneapolis, MN
 * October 17, 2017: Stanford Statistics Department Seminar, Palo Alto, CA
