@@ -8,10 +8,10 @@ Working papers and publications:
 
 * Dieng, Liu, Roy, Rudin and Volfovsky. [Collapsing-Fast-Large-Almost-Matching-Exactly: A Matching Method for Causal Inference]({{site.arxiv_url}}/1806.06802). arXiv:1806.06802
 * Bu, Xu, Heller and Volfovsky. [SMOGS: Social Network Metrics of Game Success]({{site.arxiv_url}}/1806.06696). arXiv:1806.06696
-* Bail, Argyle, Brown, Bumpus, Chen, Hunzaker, Lee, Mann, Merhout, and Volfovsky. [Exposure to Opposing Views can Increase Political Polarization: Evidence from a Large-Scale Field Experiment on Social Media](https://osf.io/preprints/socarxiv/4ygux). SocArXiv:10.17605/OSF.IO/4YGUX
+* Bail, Argyle, Brown, Bumpus, Chen, Hunzaker, Lee, Mann, Merhout, and Volfovsky. [Exposure to Opposing Views can Increase Political Polarization: Evidence from a Large-Scale Field Experiment on Social Media](http://www.pnas.org/content/early/2018/08/27/1804840115.short). Proceedings of the National Academy of Sciences (2018). [SocArXiv:10.17605/OSF.IO/4YGUX](https://osf.io/preprints/socarxiv/4ygux)
 * Roy, Rudin, Volfovsky and Wang. [FLAME: A Fast Large-scale Almost Matching Exactly Approach to Causal Inference]({{site.arxiv_url}}/1707.06315). arXiv:1707.06315
 * Jagadeesan, Pillai and Volfovsky. [Designs for estimating the treatment effect in networks with interference]({{site.arxiv_url}}/1705.08524). arXiv:1705.08524
-* Hollenbach, Bojinov, Minhas, Metternich, Minhas, Ward and Volfovsky. [Principled Imputation Made Simple: Multiple Imputation Using Gaussian Copulas]({{site.arxiv_url}}/1411.0647). arXiv:1411.0647
+* Hollenbach, Bojinov, Minhas, Metternich, Minhas, Ward and Volfovsky. [Principled Imputation Made Simple: Multiple Imputation Using Gaussian Copulas]({{site.arxiv_url}}/1411.0647). Sociological Methods and Research, Accepted 2018.
 * Basse, Volfovsky and Airoldi. [Observational studies with unknown time of treatment]({{site.arxiv_url}}/1601.04083). arXiv:1601.04083
 * Volfovsky, Airoldi and Rubin. [Causal inference for ordinal outcomes]({{site.arxiv_url}}/1501.01234). arXiv:1501.01234
 * Sussman, Volfovsky and Airoldi. [Analyzing statistical and computational tradeoffs of estimation procedures]({{site.arxiv_url}}/1506.07925).  arXiv:1506.07925
@@ -22,6 +22,11 @@ Working papers and publications:
 
 Recent and upcoming invited talks:
 
+* December 2018: CMStatistics, Pisa, Italy
+* October 2018: ISI Delhi
+* October 2018: IIT Delhi
+* October 2018: IIT Kanpur
+* October 2018: IIT Bombay
 * August 2018: [Causal Inference Workshop at UAI](https://sites.google.com/view/causaluai2018) (organizer), Monterey, CA
 * July 2018: [IMS New Researchers Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) (organizer), Vancouver
 * June 2018: International Society for Bayesian Analysis, Edinburgh
