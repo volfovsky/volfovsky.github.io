@@ -6,6 +6,9 @@ permalink: /research/
 
 Working papers and publications:
 
+* Parikh, Rudin and Volfovsky. [An Application of Matching After Learning to Stretch (MALTS)](https://obsstudies.org/wp-content/uploads/2019/09/all-papers-compiled.pdf). Observational Studies, 2019.
+* Bu, Aiello, Xu, and Volfovsky. [Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks]({{site.arxiv_url}}/1910.04221). arXiv:1910.04221
+* Mathews, Mayya, Volfovsky and Reeves. Gaussian Mixture Models for Stochastic Block Models with Non-Vanishing Noise. CAMSAP2019.
 * Reeves, Mayya, and Volfovsky. [The Geometry of Community Detection via the MMSE Matrix]({{site.arxiv_url}}/1907.02496). ISIT2019. arXiv:1907.02496
 * Awan, Liu, Morucci, Roy, Rudin and Volfovsky. [Interpretable Almost-Exact Matching With Instrumental Variables]({{site.arxiv_url}}/1906.11658). UAI2019. arXiv:1906.11658
 * Parikh, Rudin and Volfovsky. [MALTS: Matching After Learning to Stretch]({{site.arxiv_url}}/1811.07415). arXiv:1811.07415
@@ -25,7 +28,9 @@ Working papers and publications:
 
 (Select) Recent and upcoming engagements:
 
+* December 2019: IISA, Bombay, India
 * December 2019: CMStatistics, London
+* October 2019: [ML-MSM](https://www.imagwiki.nibib.nih.gov/msm-consortium/2019-ml-msm), Washington DC
 * August 2019: Joint Statistical Meetings, Denver
 * July 2019: UAI, Tel Aviv
 * July 2019: EAC-ISBA 2019, Kobe Japan
