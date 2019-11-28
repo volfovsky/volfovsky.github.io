@@ -3,6 +3,7 @@ layout: page
 title: Lab group
 permalink: /labgroup/
 ---
+The members of the lab develop statistical theory and methodology for understanding social networks, text data, and all aspects of causal inference! 
 
 Current members:
 
