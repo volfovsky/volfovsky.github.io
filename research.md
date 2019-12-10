@@ -6,6 +6,7 @@ permalink: /research/
 
 Working papers and publications:
 
+* Bail, Guay, Maloney, Combs, Hillygus, Merhout, Freelon and Volfovsky. [Assessing the Russian Internet Research Agency’s impact on the political attitudes and behaviors of American Twitter users in late 2017](). Proceedings of the National Academy of Sciences (2019)
 * Parikh, Rudin and Volfovsky. [An Application of Matching After Learning to Stretch (MALTS)](https://obsstudies.org/wp-content/uploads/2019/09/all-papers-compiled.pdf). Observational Studies, 2019.
 * Bu, Aiello, Xu, and Volfovsky. [Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks]({{site.arxiv_url}}/1910.04221). arXiv:1910.04221
 * Mathews, Mayya, Volfovsky and Reeves. Gaussian Mixture Models for Stochastic Block Models with Non-Vanishing Noise. CAMSAP2019.
