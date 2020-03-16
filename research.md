@@ -6,8 +6,8 @@ permalink: /research/
 
 Working papers and publications:
 
-* Morucci, Orlandi, Roy, Rudin and Volfovsky. [Adaptive Hyper-box Matching for Interpretable Individualized Treatment Effect Estimation](https://arxiv.org/abs/2003.01805). arXiv:2003.01805
-* Awan, Morucci, Orlandi, Roy, Rudin and Volfovsky. [Almost-Matching-Exactly for Treatment Effect Estimation under Network Interference](https://arxiv.org/abs/2003.00964). AISTATS2020. arXiv:2003.00964
+* Morucci, Orlandi, Roy, Rudin and Volfovsky. [Adaptive Hyper-box Matching for Interpretable Individualized Treatment Effect Estimation]({{site.arxiv_url}}2003.01805). arXiv:2003.01805
+* Awan, Morucci, Orlandi, Roy, Rudin and Volfovsky. [Almost-Matching-Exactly for Treatment Effect Estimation under Network Interference]({{site.arxiv_url}}2003.00964). AISTATS2020. arXiv:2003.00964
 * Bail, Guay, Maloney, Combs, Hillygus, Merhout, Freelon and Volfovsky. [Assessing the Russian Internet Research Agency’s impact on the political attitudes and behaviors of American Twitter users in late 2017](). Proceedings of the National Academy of Sciences (2019)
 * Parikh, Rudin and Volfovsky. [An Application of Matching After Learning to Stretch (MALTS)](https://obsstudies.org/wp-content/uploads/2019/09/all-papers-compiled.pdf). Observational Studies, 2019.
 * Bu, Aiello, Xu, and Volfovsky. [Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks]({{site.arxiv_url}}/1910.04221). arXiv:1910.04221
