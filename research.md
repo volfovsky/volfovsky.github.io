@@ -28,25 +28,3 @@ Working papers and publications:
 * Volfovsky and Hoff. [Testing for nodal dependence in relational data matrices]({{site.arxiv_url}}/1306.5786) (2015). Journal of the American Statistical Association 110 (511), 1037-1046
 * Volfovsky and Hoff. [Hierarchical array priors for ANOVA decompositions of cross-classified data]({{site.arxiv_url}}/1208.1726) (2014). The Annals of Applied Statistics 8 (1), 19
 * Hoff, Fosdick, Volfovsky and Stovel. [Likelihoods for fixed rank nomination networks]({{site.arxiv_url}}/1212.6234) (2013). Network Science 1 (03), 253-277
-
-(Select) Recent and upcoming engagements:
-
-* December 2019: IISA, Bombay, India
-* December 2019: CMStatistics, London
-* October 2019: [ML-MSM](https://www.imagwiki.nibib.nih.gov/msm-consortium/2019-ml-msm), Washington DC
-* August 2019: Joint Statistical Meetings, Denver
-* July 2019: UAI, Tel Aviv
-* July 2019: EAC-ISBA 2019, Kobe Japan
-* June 2019: Facebook Research
-* May 2019: Atlantic Causal Inference Conference, Montreal
-* April 2019: AISTATS, Okinawa, Japan
-* March 2019: EuroCIM, Bremen, Germany
-* December 2018: CMStatistics, Pisa, Italy
-* October 2018: IIT-K, IIT-B, IIT-D, ISI-D
-* August 2018: [Causal Inference Workshop at UAI](https://sites.google.com/view/causaluai2018) (organizer), Monterey, CA
-* July 2018: [IMS New Researchers Conference](http://groups.imstat.org/newresearchers/conferences/nrc.html) (organizer), Vancouver
-* June 2018: International Society for Bayesian Analysis, Edinburgh
-* June 2018: Causal inference for complex graphical structures, CRM, Montreal
-* June 2018: [NetSci: Network Causal Inference and Design of Experiments](https://sites.google.com/view/causal-netsci2018/home) (organizer), Paris
-* June 2018: Conference on Statistical Learning and Data Science, New York, NY
-* October 11, 2017: [Leveraging Advances in Social Network Thinking for National Security](http://sites.nationalacademies.org/DBASSE/BBCSS/DBASSE_181267), The National Academies of Sciences, Engineering, and Medicine, Washington, DC 
