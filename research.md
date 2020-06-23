@@ -6,11 +6,12 @@ permalink: /research/
 
 Working papers and publications:
 
+* Zivich, Volfovsky, Moody, Aiello. Treatment assortativity in epidemiologic studies of contagious outcomes. 
 * Morucci, Orlandi, Roy, Rudin and Volfovsky. [Adaptive Hyper-box Matching for Interpretable Individualized Treatment Effect Estimation]({{site.arxiv_url}}/2003.01805). UAI2020. arXiv:2003.01805
 * Awan, Morucci, Orlandi, Roy, Rudin and Volfovsky. [Almost-Matching-Exactly for Treatment Effect Estimation under Network Interference]({{site.arxiv_url}}/2003.00964). AISTATS2020. arXiv:2003.00964
 * Bail, Guay, Maloney, Combs, Hillygus, Merhout, Freelon and Volfovsky. [Assessing the Russian Internet Research Agency’s impact on the political attitudes and behaviors of American Twitter users in late 2017](https://www.pnas.org/content/117/1/243). Proceedings of the National Academy of Sciences (2019)
 * Parikh, Rudin and Volfovsky. [An Application of Matching After Learning to Stretch (MALTS)](https://obsstudies.org/wp-content/uploads/2019/09/all-papers-compiled.pdf). Observational Studies, 2019.
-* Bu, Aiello, Xu, and Volfovsky. [Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks]({{site.arxiv_url}}/1910.04221). arXiv:1910.04221
+* Bu, Aiello, Xu, and Volfovsky. [Likelihood-based Inference for Partially Observed Epidemics on Dynamic Networks]({{site.arxiv_url}}/1910.04221). arXiv:1910.04221. Journal of the American Statistical Association (just accepted). SBSS Student Paper Award!
 * Mathews, Mayya, Volfovsky and Reeves. [Gaussian Mixture Models for Stochastic Block Models with Non-Vanishing Noise]({{site.arxiv_url}}/1911.01855). CAMSAP2019. arXiv:1911.01855
 * Reeves, Mayya, and Volfovsky. [The Geometry of Community Detection via the MMSE Matrix]({{site.arxiv_url}}/1907.02496). ISIT2019. arXiv:1907.02496
 * Awan, Liu, Morucci, Roy, Rudin and Volfovsky. [Interpretable Almost-Exact Matching With Instrumental Variables]({{site.arxiv_url}}/1906.11658). UAI2019. arXiv:1906.11658
