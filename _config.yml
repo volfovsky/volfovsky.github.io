@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Assistant professor of statistical science at Duke University.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://volfovsky.github.io" # the base hostname & protocol for your site
-twitter_username: 
+twitter_username: alex_volfovsky
 instagram_username: mordytheschnootzface
 github_username:  volfovsky
 arxiv_url: "https://arxiv.org/abs"
