@@ -19,7 +19,7 @@ Working papers and publications:
 * Dieng, Liu, Roy, Rudin and Volfovsky. [Collapsing-Fast-Large-Almost-Matching-Exactly: A Matching Method for Causal Inference]({{site.arxiv_url}}/1806.06802). AISTATS2019. arXiv:1806.06802
 * Bu, Xu, Heller and Volfovsky. [SMOGS: Social Network Metrics of Game Success]({{site.arxiv_url}}/1806.06696). AISTATS2019. arXiv:1806.06696
 * Bail, Argyle, Brown, Bumpus, Chen, Hunzaker, Lee, Mann, Merhout, and Volfovsky. [Exposure to Opposing Views can Increase Political Polarization: Evidence from a Large-Scale Field Experiment on Social Media](http://www.pnas.org/content/early/2018/08/27/1804840115.short). Proceedings of the National Academy of Sciences (2018). [SocArXiv:10.17605/OSF.IO/4YGUX](https://osf.io/preprints/socarxiv/4ygux)
-* Wang, Morucci, Awan, Liu, Roy, Rudin, Volfovsky. [FLAME: A Fast Large-scale Almost Matching Exactly Approach to Causal Inference]({{site.arxiv_url}}/1707.06315). arXiv:1707.06315
+* Wang, Morucci, Awan, Liu, Roy, Rudin, Volfovsky. [FLAME: A Fast Large-scale Almost Matching Exactly Approach to Causal Inference]({{site.arxiv_url}}/1707.06315). Journal of Machine Learning Research. arXiv:1707.06315
 * Jagadeesan, Pillai and Volfovsky. [Designs for estimating the treatment effect in networks with interference]({{site.arxiv_url}}/1705.08524). Annals of Statistics 2019+. arXiv:1705.08524
 * Hollenbach, Bojinov, Minhas, Metternich, Minhas, Ward and Volfovsky. [Principled Imputation Made Simple: Multiple Imputation Using Gaussian Copulas]({{site.arxiv_url}}/1411.0647). Sociological Methods and Research, Accepted 2018.
 * Basse, Volfovsky and Airoldi. [Observational studies with unknown time of treatment]({{site.arxiv_url}}/1601.04083). arXiv:1601.04083
