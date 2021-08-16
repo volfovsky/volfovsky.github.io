@@ -6,7 +6,9 @@ permalink: /research/
 
 Working papers and publications:
 
-* Zivich, Volfovsky, Moody, Aiello. Treatment assortativity in epidemiologic studies of contagious outcomes. 
+* Chauhan, Orlandi, Rajab, Bedeir, Volfovsky, and Mokashi. Post-operative Outcomes in Infants Undergoing ABO Incompatible Heart Transplantation in the US. 
+* Brinkley-Rubinstein, LeMasters , Nguyen, Nowotny, Cloud, and Volfovsky. The association between intersystem prison transfers and COVID-19 incidence in a state prison system. PLOS One (2021).
+* Zivich, Volfovsky, Moody, and Aiello. Treatment assortativity in epidemiologic studies of contagious outcomes. American Journal of Epidemiology (2021).
 * Morucci, Orlandi, Roy, Rudin and Volfovsky. [Adaptive Hyper-box Matching for Interpretable Individualized Treatment Effect Estimation]({{site.arxiv_url}}/2003.01805). UAI2020. arXiv:2003.01805
 * Awan, Morucci, Orlandi, Roy, Rudin and Volfovsky. [Almost-Matching-Exactly for Treatment Effect Estimation under Network Interference]({{site.arxiv_url}}/2003.00964). AISTATS2020. arXiv:2003.00964
 * Bail, Guay, Maloney, Combs, Hillygus, Merhout, Freelon and Volfovsky. [Assessing the Russian Internet Research Agency’s impact on the political attitudes and behaviors of American Twitter users in late 2017](https://www.pnas.org/content/117/1/243). Proceedings of the National Academy of Sciences (2019)
