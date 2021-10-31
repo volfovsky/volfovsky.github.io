@@ -6,6 +6,7 @@ permalink: /research/
 
 Working papers and publications:
 
+* Weltz, Volfovsky and Laber. Reinforcement learning methods in public health. Clinical Therapeutics (2021+)
 * Tierney, Bail and Volfovsky. [Author Clustering and Topic Estimation for Short Texts]({{site.arxiv_url}}/2106.09533) (2021).
 * Tierney and Volfovsky. Sensitivity Analysis for Causal Mediation through Text: an Application to Political Polarization. Proceedings of the First Workshop on Causal Inference & Natural Language Processing (2021).
 * Bu, Aiello, Volfovsky and Xu. Likelihood-based Inference For Partially Observed Stochastic Epidemics With Individual Heterogeneity (2021).
