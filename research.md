@@ -6,10 +6,14 @@ permalink: /research/
 
 Working papers and publications:
 
+* Mathews and Volfovsky. [Latent Community Adaptive Network Regression
+]({{site.arxiv_url}}/2112.07892) (2021).
+* Orlandi, Murray, Linearo and Volfovsky. [Density Regression with Bayesian Additive Regression Trees
+]({{site.arxiv_url}}/2112.12259) (2021). SBSS Student Paper Award!
 * Weltz, Volfovsky and Laber. Reinforcement learning methods in public health. Clinical Therapeutics (2021+)
 * Tierney, Bail and Volfovsky. [Author Clustering and Topic Estimation for Short Texts]({{site.arxiv_url}}/2106.09533) (2021).
-* Tierney and Volfovsky. Sensitivity Analysis for Causal Mediation through Text: an Application to Political Polarization. Proceedings of the First Workshop on Causal Inference & Natural Language Processing (2021).
-* Bu, Aiello, Volfovsky and Xu. Likelihood-based Inference For Partially Observed Stochastic Epidemics With Individual Heterogeneity (2021).
+* Tierney and Volfovsky. [Sensitivity Analysis for Causal Mediation through Text: an Application to Political Polarization](https://aclanthology.org/2021.cinlp-1.5.pdf). Proceedings of the First Workshop on Causal Inference & Natural Language Processing (2021).
+* Bu, Aiello, Volfovsky and Xu. [Likelihood-based Inference For Partially Observed Stochastic Epidemics With Individual Heterogeneity]({{site.arxiv_url}}/2112.07892) (2021).
 * Chauhan, Orlandi, Rajab, Bedeir, Volfovsky, and Mokashi. [Post-operative Outcomes in Infants Undergoing ABO Incompatible Heart Transplantation in the US](https://linkinghub.elsevier.com/retrieve/pii/S0003-4975(21)01645-3). The Annals of Thoracic Surgery, 2021. 
 * Brinkley-Rubinstein, LeMasters , Nguyen, Nowotny, Cloud, and Volfovsky. The association between intersystem prison transfers and COVID-19 incidence in a state prison system. PLOS One (2021).
 * Zivich, Volfovsky, Moody, and Aiello. [Assortativity and Bias in Epidemiologic Studies of Contagious Outcomes: A Simulated Example in the Context of Vaccination](https://academic.oup.com/aje/advance-article-abstract/doi/10.1093/aje/kwab167/6292355?redirectedFrom=fulltext) American Journal of Epidemiology (2021).
