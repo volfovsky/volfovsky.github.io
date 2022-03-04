@@ -7,7 +7,7 @@ permalink: /research/
 Working papers and publications:
 
 * Mathews and Volfovsky. [Latent Community Adaptive Network Regression
-]({{site.arxiv_url}}/2112.07892) (2021).
+]({{site.arxiv_url}}/2112.06097) (2021).
 * Orlandi, Murray, Linearo and Volfovsky. [Density Regression with Bayesian Additive Regression Trees
 ]({{site.arxiv_url}}/2112.12259) (2021). SBSS Student Paper Award!
 * Weltz, Volfovsky and Laber. Reinforcement learning methods in public health. Clinical Therapeutics (2021+)
