@@ -6,6 +6,8 @@ permalink: /research/
 
 Working papers and publications:
 
+* Tierney and Volfovsky. [Bias and Excess Variance in Election Polling: A Not-So-Hidden Markov Model]({{site.arxiv_url}}/2206.14570) (2022).
+* Parikh, Hoffman, Sun, Ge, Jing, Amerineni, Liu, Sun, Zafar, Struck, Volfovsky, Rudin, and Westover. [Effects of Epileptiform Activity on Discharge Outcome in Critically Ill Patients]({{site.arxiv_url}}/2203.04920) (2022).
 * Mathews and Volfovsky. [Latent Community Adaptive Network Regression
 ]({{site.arxiv_url}}/2112.06097) (2021).
 * Orlandi, Murray, Linearo and Volfovsky. [Density Regression with Bayesian Additive Regression Trees
@@ -25,7 +27,7 @@ Working papers and publications:
 * Mathews, Mayya, Volfovsky and Reeves. [Gaussian Mixture Models for Stochastic Block Models with Non-Vanishing Noise]({{site.arxiv_url}}/1911.01855). CAMSAP2019. arXiv:1911.01855
 * Reeves, Mayya, and Volfovsky. [The Geometry of Community Detection via the MMSE Matrix]({{site.arxiv_url}}/1907.02496). ISIT2019. arXiv:1907.02496
 * Awan, Liu, Morucci, Roy, Rudin and Volfovsky. [Interpretable Almost-Exact Matching With Instrumental Variables]({{site.arxiv_url}}/1906.11658). UAI2019. arXiv:1906.11658
-* Parikh, Rudin and Volfovsky. [MALTS: Matching After Learning to Stretch]({{site.arxiv_url}}/1811.07415). arXiv:1811.07415
+* Parikh, Rudin and Volfovsky. [MALTS: Matching After Learning to Stretch]({{site.arxiv_url}}/1811.07415). JMLR (Forthcoming).
 * Dieng, Liu, Roy, Rudin and Volfovsky. [Collapsing-Fast-Large-Almost-Matching-Exactly: A Matching Method for Causal Inference]({{site.arxiv_url}}/1806.06802). AISTATS2019. arXiv:1806.06802
 * Bu, Xu, Heller and Volfovsky. [SMOGS: Social Network Metrics of Game Success]({{site.arxiv_url}}/1806.06696). AISTATS2019. arXiv:1806.06696
 * Bail, Argyle, Brown, Bumpus, Chen, Hunzaker, Lee, Mann, Merhout, and Volfovsky. [Exposure to Opposing Views can Increase Political Polarization: Evidence from a Large-Scale Field Experiment on Social Media](http://www.pnas.org/content/early/2018/08/27/1804840115.short). Proceedings of the National Academy of Sciences (2018). [SocArXiv:10.17605/OSF.IO/4YGUX](https://osf.io/preprints/socarxiv/4ygux)
