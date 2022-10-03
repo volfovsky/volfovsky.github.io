@@ -20,7 +20,7 @@ Alumni:
 
 * [Claire Le Barbenchon](https://clebarbenchon.wixsite.com/academic) (PhD, Sociology)
 * [Heather Mathews](https://mathewhm.github.io) (PhD, currently at Spotify)
-* [Fan Bu](http://fanbuduke17.github.io/) (PhD, currently postdoc at UCLA)
+* [Fan Bu](https://fanbu1995.github.io/) (PhD, currently postdoc at UCLA)
 * [Marco Morucci](https://marcomorucci.com//bio/) (PhD, Political Science at Duke, currently postdoc at NYU)
 * Rose Graves (Duke '20 undergraduate, now at Houston Astros)
 * Jerry Chang (Duke '18 undergraduate, now PhD student at Harvard)
