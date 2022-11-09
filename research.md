@@ -11,7 +11,7 @@ Working papers and publications:
 * Mathews and Volfovsky. [Latent Community Adaptive Network Regression
 ]({{site.arxiv_url}}/2112.06097) (2021).
 * Orlandi, Murray, Linearo and Volfovsky. [Density Regression with Bayesian Additive Regression Trees
-]({{site.arxiv_url}}/2112.12259) (2021). SBSS Student Paper Award!
+]({{site.arxiv_url}}/2112.12259) (2021). Laplace SBSS Student Paper Award!
 * Weltz, Volfovsky and Laber. Reinforcement learning methods in public health. Clinical Therapeutics (2021+)
 * Tierney, Bail and Volfovsky. [Author Clustering and Topic Estimation for Short Texts]({{site.arxiv_url}}/2106.09533) (2021).
 * Tierney and Volfovsky. [Sensitivity Analysis for Causal Mediation through Text: an Application to Political Polarization](https://aclanthology.org/2021.cinlp-1.5.pdf). Proceedings of the First Workshop on Causal Inference & Natural Language Processing (2021).
@@ -35,7 +35,7 @@ Working papers and publications:
 * Jagadeesan, Pillai and Volfovsky. [Designs for estimating the treatment effect in networks with interference]({{site.arxiv_url}}/1705.08524). Annals of Statistics 2019+. arXiv:1705.08524
 * Hollenbach, Bojinov, Minhas, Metternich, Minhas, Ward and Volfovsky. [Principled Imputation Made Simple: Multiple Imputation Using Gaussian Copulas]({{site.arxiv_url}}/1411.0647). Sociological Methods and Research, Accepted 2018.
 * Basse, Volfovsky and Airoldi. [Observational studies with unknown time of treatment]({{site.arxiv_url}}/1601.04083). arXiv:1601.04083
-* Volfovsky, Airoldi and Rubin. [Causal inference for ordinal outcomes]({{site.arxiv_url}}/1501.01234). arXiv:1501.01234
+* Volfovsky, Airoldi and Rubin. [Causal inference for ordinal outcomes]({{site.arxiv_url}}/1501.01234). arXiv:1501.01234 [code](files/bayes_rank.R)
 * Sussman, Volfovsky and Airoldi. [Analyzing statistical and computational tradeoffs of estimation procedures]({{site.arxiv_url}}/1506.07925).  arXiv:1506.07925
 * Volfovsky and Airoldi. [Sharp total variation bounds for finitely exchangeable arrays]({{site.arxiv_url}}/1407.6092) (2016). Statistics & Probability Letters 114, 54-59. 
 * Volfovsky and Hoff. [Testing for nodal dependence in relational data matrices]({{site.arxiv_url}}/1306.5786) (2015). Journal of the American Statistical Association 110 (511), 1037-1046
