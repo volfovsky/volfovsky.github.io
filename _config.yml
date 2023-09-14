@@ -2,11 +2,11 @@
 title: Alexander Volfovsky
 email: alexander.volfovsky@duke.edu
 description: > # this means to ignore newlines until "baseurl:"
-  assistant professor of statistical science and computer science at duke university
+  associate professor of statistical science and computer science at duke university
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://volfovsky.github.io" # the base hostname & protocol for your site
 twitter_username: alex_volfovsky
-instagram_username: mordytheschnootzface
+#instagram_username: mordytheschnootzface
 github_username:  volfovsky
 arxiv_url: "https://arxiv.org/abs"
 #author:
