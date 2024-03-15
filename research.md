@@ -6,6 +6,8 @@ permalink: /research/
 
 Working papers and publications:
 
+* Parikh, Lanners, Akras, Zafar, Rudin and Volfovsky. [Estimating Trustworthy and Safe Optimal Treatment Regimes]({{site.arxiv_url}}/2310.15333).
+* Katta, Parikh, Rudin and Volfovsky. [Interpretable Causal Inference for Analyzing Wearable, Sensor, and Distributional Data]({{site.arxiv_url}}/2312.10569).
 * Volfovsky, Airoldi and Rubin. [Causal inference for ordinal outcomes]({{site.arxiv_url}}/1501.01234). [code](files/bayes_rank.R)
 * Weltz, Fiez, Volfovsky, Laber, Mason, Nassif and Jain. [Experimental Designs for Heteroskedastic Variance]({{site.arxiv_url}}/2310.04390) NeuRIPS (2023).
 * Belloni, Fang and Volfovsky. [Neighborhood Adaptive Estimators for Causal Inference under Network Interference]({{site.arxiv_url}}/2212.03683) (2023).
