@@ -6,7 +6,7 @@ permalink: /research/
 
 Working papers and publications:
 
-* Volfovsky, Airoldi and Rubin. [Causal inference for ordinal outcomes]({{site.arxiv_url}}/1501.01234). Proceedings of the National Academy of Science (2023+). [code](files/bayes_rank.R)
+* Volfovsky, Airoldi and Rubin. [Causal inference for ordinal outcomes]({{site.arxiv_url}}/1501.01234). [code](files/bayes_rank.R)
 * Weltz, Fiez, Volfovsky, Laber, Mason, Nassif and Jain. [Experimental Designs for Heteroskedastic Variance]({{site.arxiv_url}}/2310.04390) NeuRIPS (2023).
 * Belloni, Fang and Volfovsky. [Neighborhood Adaptive Estimators for Causal Inference under Network Interference]({{site.arxiv_url}}/2212.03683) (2023).
 * Lanners, Parikh, Volfovsky, Rudin and Page. [From Feature Importance to Distance Metric: An Almost Exact Matching Approach for Causal Inference]({{site.arxiv_url}}/2302.11715). UAI2023. 
