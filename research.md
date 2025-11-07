@@ -3,9 +3,24 @@ layout: page
 title: Research
 permalink: /research/
 ---
+**Relevant Links:**  
+- [Google Scholar: Alexander Volfovsky](https://scholar.google.com/citations?user=QwQk2wEAAAAJ)  
+- [arXiv: Alexander Volfovsky](https://arxiv.org/search/?query=Volfovsky%2C+A&amp;searchtype=author)
+
 
 Working papers and publications:
 
+* Tierney, Katta, Bail, Hillygus, Volfovsky. [A Design-based Solution for Causal Inference with Text: Can a Language Model Be Too Large?]({{site.arxiv_url}}/2510.08758) (2025).
+* Lanners, Rudin, Volfovsky, Parikh. [Data Fusion for Partial Identification of Causal Effects]({{site.arxiv_url}}/2505.24296) (2025).
+* Gleich, Laber, Volfovsky. [Scalable Policy Maximization Under Network Interference]({{site.arxiv_url}}/2505.18118) (2025).
+* Weltz, Yoon, Zhang, Volfovsky, Laber. [Reinforcement Learning for Respondent-Driven Sampling]({{site.arxiv_url}}/2501.01505) (2025).
+* Combs, Tierney, Guay, Merhout, Bail, Hillygus, Volfovsky. [Reducing political polarization in the United States with a mobile chat platform](https://doi.org/10.1038/s41562-023-01655-0). Nature Human Behaviour (2023).
+* Gupta, Orlandi, Chang, Wang, Morucci, Dey, Howell, Sun, Ghosal, Roy, Rudin, Volfovsky. [dame-flame: A Python Package Providing Fast Interpretable Matching for Causal Inference](https://doi.org/10.18637/jss.v113.i02). Journal of Statistical Software (2025).
+* Parikh, Morucci, Orlandi, Roy, Rudin, Volfovsky. [A Double Machine Learning Approach for Combining Experimental and Observational Studies](https://doi.org/10.1353/obs.2025.a973068). Observational Studies (2025).
+* Seale-Carlisle, Jain, Lee, Levenson, Ramprasad, Garrett, Roy, Rudin, Volfovsky. [Evaluating Pre-trial Programs Using Interpretable Machine Learning Matching Algorithms for Causal Inference](https://doi.org/10.1609/aaai.v38i20.30239). AAAI Conference on Artificial Intelligence (2024).
+* Combs, Tierney, Alqabandi, Cornell, Varela, Castro Araújo, Argyle, Bail, Volfovsky. [Perceived gender and political persuasion: a social media field experiment during the 2020 US Democratic presidential primary election](https://doi.org/10.1038/s41598-023-39359-0). Scientific Reports (2023).
+* Mathews, Volfovsky. [Community informed experimental design](https://doi.org/10.1007/s10260-022-00679-6). Statistical Methods & Applications (2023).
+* Volfovsky, Bail. [Depolarization via anonymous mobile online communication](https://doi.org/10.1038/s41562-023-01656-z). Nature Human Behaviour (2023).
 * Parikh, Lanners, Akras, Zafar, Rudin and Volfovsky. [Estimating Trustworthy and Safe Optimal Treatment Regimes]({{site.arxiv_url}}/2310.15333).
 * Katta, Parikh, Rudin and Volfovsky. [Interpretable Causal Inference for Analyzing Wearable, Sensor, and Distributional Data]({{site.arxiv_url}}/2312.10569).
 * Volfovsky, Airoldi and Rubin. [Causal inference for ordinal outcomes]({{site.arxiv_url}}/1501.01234). [code](files/bayes_rank.R)
