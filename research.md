@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 **Relevant Links:**  
-- [Google Scholar: Alexander Volfovsky](https://scholar.google.com/citations?user=QwQk2wEAAAAJ)  
+- [Google Scholar: Alexander Volfovsky](https://scholar.google.com/citations?user=9qHFzDoAAAAJ)  
 - [arXiv: Alexander Volfovsky](https://arxiv.org/search/?query=Volfovsky%2C+A&amp;searchtype=author)
 
 
