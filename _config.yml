@@ -25,6 +25,7 @@ google_analytics: G-54GSTB0HN1
 
 exclude:
   - SITE_AUDIT.md
+  - SITE_AUDIT_TEMPLATE.md
   - README.md
   - selected_talks.old
   - files/tmp.txt
