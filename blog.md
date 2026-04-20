@@ -2,9 +2,12 @@
 layout: page
 title: Blog
 permalink: /blog/
+sitemap:
+  exclude: "yes"
+robots: noindex
 ---
 
-There is a non-neglibile chance of a blog materalizing in this space in the near future.
+There is a non-negligible chance of a blog materializing in this space in the near future.
 
 <ul class="listing">
 {% for post in site.posts %}

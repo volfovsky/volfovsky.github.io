@@ -43,6 +43,14 @@
             </a>
           </li>
           {% endif %}
+
+          {% if site.google_scholar_url %}
+          <li>
+            <a href="{{ site.google_scholar_url }}">
+              <i class="fa fa-graduation-cap"></i> Google Scholar
+            </a>
+          </li>
+          {% endif %}
           
           {% if site.instagram_username %}
           <li>
@@ -56,7 +64,7 @@
 
       <div class="footer-col  footer-col-3">
          <p class="text">
-{{ site.description }} 
+{{ site.description }}</p>
       </div>
     </div>
 

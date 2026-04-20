@@ -1,6 +1,6 @@
 <dl id="" class="wp-caption align{{include.align}}" style="max-width: {{include.width}}px">
 
-<dt><a href="{{ include.href }}"><img class="" src="{{ include.url }}" alt="{{ include.caption }}" /></a></dt>
+<dt>{% if include.href %}<a href="{{ include.href }}">{% endif %}<img class="" src="{{ include.url }}" alt="{% if include.alt %}{{ include.alt }}{% else %}{{ include.caption }}{% endif %}" />{% if include.href %}</a>{% endif %}</dt>
 
-<dd>{{ include.caption }}</dd>
+{% if include.caption %}<dd>{{ include.caption }}</dd>{% endif %}
 </dl>

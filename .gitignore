@@ -1,2 +1,6 @@
 _site
 .sass-cache
+SITE_AUDIT.md
+.jekyll-cache
+.bundle
+vendor/bundle
