@@ -7,6 +7,7 @@ permalink: /teaching/
 Courses I have taught at Duke:
 
 * STA 119FS: Thinking Statistics ([F26](https://statistical-history.github.io/))
+* STA 701S: Statistical Science Graduate Research Seminar ([F26](https://stat701.github.io))
 * STA 790: GenAI, LLMs & Stats (&causal?) (S26)
 * STA 402: Bayesian methods (F25)
 * STA 790: Modern causal inference (S24)
