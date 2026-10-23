@@ -147,6 +147,44 @@
     padding: $spacing-unit 0;
 }
 
+/**
+ * Homepage introduction
+ */
+.home-intro {
+    display: flex;
+    align-items: flex-start;
+    gap: $spacing-unit;
+    margin-bottom: $spacing-unit;
+}
+
+.home-intro-copy {
+    flex: 1;
+    min-width: 0;
+
+    > :last-child {
+        margin-bottom: 0;
+    }
+}
+
+.home-portrait {
+    display: block;
+    flex: 0 0 auto;
+    width: 200px;
+    height: auto;
+    border-radius: 4px;
+}
+
+@include media-query($on-palm) {
+    .home-intro {
+        flex-direction: column;
+        gap: $spacing-unit / 2;
+    }
+
+    .home-portrait {
+        width: 180px;
+    }
+}
+
 .page-heading {
     font-size: 20px;
 }

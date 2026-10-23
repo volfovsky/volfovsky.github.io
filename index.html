@@ -6,20 +6,21 @@ description: >-
   experimental design, networks, text, and AI systems.
 ---
 <div class="home">
-	<h1>Alexander Volfovsky</h1>
-	<p>Causal inference, experimental design, and AI at Duke University</p>
-	<nav aria-label="Quick links">
-		<p>
-			<a href="{{ '/research/' | prepend: site.baseurl }}">Research</a> &middot;
-			<a href="{{ site.google_scholar_url | escape }}">Google Scholar</a> &middot;
-			<a href="{{ '/labgroup/' | prepend: site.baseurl }}">Research group</a>
-		</p>
-	</nav>
-	
-<p>I am an associate professor of statistical science and computer science at Duke University.
-	I work on causal inference in complex systems, with text, networks,
-	and AI systems as recurring examples of settings where statistical methods need to respect
-	the structure of the data-generating process. I am the Co-Director of two labs at Duke:
+	<div class="home-intro">
+		<div class="home-intro-copy">
+			<h1>Alexander Volfovsky</h1>
+			<p>Causal inference, experimental design, and AI at Duke University</p>
+			<p>I am an associate professor of statistical science and computer science at Duke University.
+				I work on causal inference in complex systems, with text, networks,
+				and AI systems as recurring examples of settings where statistical methods need to respect
+				the structure of the data-generating process.</p>
+			<p><a href="{{ site.google_scholar_url | escape }}">Google Scholar</a></p>
+		</div>
+		<img class="home-portrait" src="{{ '/images/volfovsky_photo.jpg' | prepend: site.baseurl }}"
+			alt="Alexander Volfovsky" width="3024" height="4032">
+	</div>
+
+<p>I am the Co-Director of two labs at Duke:
 	(1) The <a href="https://www.polarizationlab.com/">Polarization Lab at Duke</a>
 	brings together scholars from the social sciences, statistics, and computer science to develop new technology to bridge America's partisan divide.
 	(2) The <a href="https://almostmatchingexactly.github.io/">Almost Matching Exactly Lab at Duke</a> brings together statisticians, computer scientists, economists,
