@@ -1,6 +1,10 @@
 ---
 layout: page
 title: Lab Group
+seo_title: "Research Group | Alexander Volfovsky"
+description: >-
+  Meet Alexander Volfovsky's research group at Duke, working on causal inference,
+  social networks, text data, and AI systems.
 permalink: /labgroup/
 ---
 The members and associates of the lab develop statistical theory and methodology for understanding social networks, text data, AI systems, and causal inference in complex systems.

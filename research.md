@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Research
+description: >-
+  Research and publications by Alexander Volfovsky on causal inference, network
+  interference, experimental design, text, and AI systems.
 permalink: /research/
 ---
 **Relevant Links:**  

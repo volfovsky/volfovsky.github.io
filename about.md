@@ -1,6 +1,10 @@
 ---
 layout: page
 title: About
+seo_title: "About Alexander Volfovsky | Duke University"
+description: >-
+  Alexander Volfovsky is an Associate Professor of Statistical Science and Computer
+  Science at Duke University and co-director of two research labs.
 permalink: /about/
 ---
 

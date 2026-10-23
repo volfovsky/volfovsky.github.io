@@ -1,6 +1,9 @@
 ---
 layout: page
 title: CV
+description: >-
+  Curriculum vitae of Alexander Volfovsky, Associate Professor of Statistical Science
+  and Computer Science at Duke University.
 permalink: /cv/
 ---
 

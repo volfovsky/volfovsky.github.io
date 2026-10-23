@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Teaching
+description: >-
+  Courses taught by Alexander Volfovsky at Duke, including causal inference, Bayesian
+  methods, network analysis, statistical history, and generative AI.
 permalink: /teaching/
 ---
 
