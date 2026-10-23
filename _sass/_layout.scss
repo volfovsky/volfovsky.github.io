@@ -150,38 +150,24 @@
 /**
  * Homepage introduction
  */
-.home-intro {
-    display: flex;
-    align-items: flex-start;
-    gap: $spacing-unit;
-    margin-bottom: $spacing-unit;
-}
-
-.home-intro-copy {
-    flex: 1;
-    min-width: 0;
-
-    > :last-child {
-        margin-bottom: 0;
-    }
+.home {
+    @extend %clearfix;
 }
 
 .home-portrait {
     display: block;
-    flex: 0 0 auto;
+    float: right;
     width: 200px;
     height: auto;
+    margin: 4px 0 15px 20px;
     border-radius: 4px;
 }
 
 @include media-query($on-palm) {
-    .home-intro {
-        flex-direction: column;
-        gap: $spacing-unit / 2;
-    }
-
     .home-portrait {
+        float: none;
         width: 180px;
+        margin: 0 0 $spacing-unit / 2;
     }
 }
 
