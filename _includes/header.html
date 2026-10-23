@@ -2,10 +2,17 @@
 
   <div class="wrapper">
 
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+    <div class="site-branding">
+      {% if page.url == '/' or page.url == '/index.html' %}
+        <h1 class="site-heading"><a class="site-title" href="{{ site.baseurl }}/">{{ site.title | escape }}</a></h1>
+      {% else %}
+        <a class="site-title" href="{{ site.baseurl }}/">{{ site.title | escape }}</a>
+      {% endif %}
+      <p class="site-tagline">Causal inference, experimental design, and AI at Duke University</p>
+    </div>
 
 
-    <nav class="site-nav">
+    <nav class="site-nav" aria-label="Main navigation">
 
       <a href="#" class="menu-icon menu.open">
         <svg viewBox="0 0 18 15">
@@ -15,7 +22,7 @@
         </svg>
       </a>  
 
-    <div class="trigger"><h1>Main Navigation</h1>
+    <div class="trigger">
 
  {% include nav.html  %}
 

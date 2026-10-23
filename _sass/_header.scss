@@ -11,13 +11,23 @@
 
 }
 
+.site-branding {
+    flex: 1;
+    min-width: 0;
+}
+
+.site-heading {
+    margin: 0;
+    font-size: 26px;
+    line-height: 1.25;
+}
+
 .site-title {
     font-size: 26px;
-/* 		margin-top: 15px;
-    line-height: 40px; */
+    line-height: 1.25;
     letter-spacing: -1px;
     margin-bottom: 0;
-    float: left;
+    display: block;
     font-weight: 500;
 		font-family: 'Titillium Web', sans-serif;
     color: #ffffff;
@@ -31,9 +41,30 @@
 }
 }
 
+.site-tagline {
+    margin: 6px 0 0;
+    font-size: 14px;
+    line-height: 1.5;
+    color: #dbe4f3;
+}
+
 .site-header .wrapper {
+	display: flex;
+	align-items: center;
+	gap: 24px;
 	padding-top: 20px;
+	padding-bottom: 20px;
 	position: relative;
+
+	&:after {
+		display: none;
+	}
+}
+
+@include media-query($on-palm) {
+    .site-branding {
+        padding-right: 72px;
+    }
 }
 
 .site-nav ul li a {
@@ -140,14 +171,8 @@ z-index:999;
 
 
 
-.site-nav h1 {
-	position: absolute;
-	left: -999em;
-}
-
-
 .site-nav {
-    float: right;
+    flex-shrink: 0;
     line-height: 40px;
 
 
@@ -170,8 +195,8 @@ z-index:999;
 
     @include media-query($on-palm) {
         position: absolute;
-        top: 9px;
-        right: 30px;
+        top: 20px;
+        right: 15px;
         background-color: $background-color;
         border: 1px solid $grey-color-light;
         border-radius: 5px;
